@@ -1,0 +1,8 @@
+/*_img
+/venv
+/logs
+
+*.csv
+*.pcap
+
+!selected_features*.csv
