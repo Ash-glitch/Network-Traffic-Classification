@@ -1,6 +1,6 @@
 # Setting up the code
 
-Install **pcap_to_csv_convertor** folder from the Github( https://github.com/Jenil-Dobariya/Onion-Tunnel-CS658.git ) as it cannot be submitted in this zip file due to its size
+Install **pcap_to_csv_convertor** folder from the Github( https://github.com/Jenil-Dobariya/Onion-Tunnel-CS658.git )
 
 ## Download the datasets
 
